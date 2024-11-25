@@ -1,0 +1,4 @@
+lr: 1.0e-05
+max_epochs: 100
+num_classes: 4
+weight_decay: 0.0001
