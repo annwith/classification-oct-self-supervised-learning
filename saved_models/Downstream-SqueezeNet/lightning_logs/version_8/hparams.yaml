@@ -1,0 +1,5 @@
+class_weights: null
+lr: 5.0e-05
+max_epochs: 35
+num_classes: 4
+weight_decay: 1.0e-05
